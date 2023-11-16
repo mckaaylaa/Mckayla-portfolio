@@ -1,0 +1,29 @@
+* { margin: 0; padding: 0; }
+
+.red-circle {
+    position: static;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6rem;
+    
+}
+
+.red-circle-png {
+    width: 53%;
+}
+
+body{
+    background-color: rgb(0, 34, 255);
+}
+
+p {
+    color: rgb(176, 203, 109);
+    font-size: 4em;
+    text-align: center;
+    
+}
+
+.welcomenote {
+    background-color: rgb(240, 239, 231);
+}
